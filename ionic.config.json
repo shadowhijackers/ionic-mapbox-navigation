@@ -1,5 +1,7 @@
 {
   "name": "mapbox-navigation",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

@@ -1,0 +1,14 @@
+{
+  "appId": "com.shadow.hijackers.mapbox.navigation",
+  "appName": "mapbox-navigation",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/agira/android-studio/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
